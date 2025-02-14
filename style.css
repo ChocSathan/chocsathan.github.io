@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: pink;
+    font-family: 'Arial', sans-serif;
+}
+h1 {
+    color: red;
+    font-size: 3em;
+}
+
+.hidden {
+    display: none;
+}
